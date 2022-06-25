@@ -1,2 +1,2 @@
 # Sample
-## Testing new RestAPI
+Testing new RestAPI
